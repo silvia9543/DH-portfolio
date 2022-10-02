@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exercises Ch. 2
+title: Week 3, Exercises Ch. 2
 description: Select exercises from Python Crash Course
 ---
 
