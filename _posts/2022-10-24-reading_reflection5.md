@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Reading Reflection 5"
+date:   2022-10-24 18:21:49 -0400
+categories: reading reflections
+---
+
+In Rockwell and Sinclair’s “The Measured Words: How Computers Analyze Text,” the main question posed to the reader is what relationships we want to have with interpretive machines, aka computers. There are many data and programming concepts discussed that illustrates the differences between human processing of texts and machine interpretations. For instance, there are algorithms like pattern matching and tools that analyze text by sorting words by frequency and arranging this data visually in word clouds or distribution graphs. Machines can perform tasks carefully, no matter how tedious, according to a set of instructions so they are not actually understanding the text, but rather following a pre-existing set of steps to process it. 
+
+However, Rockwell and Sinclair highlight that there are limitations to using computing in analyzing texts. For instance, distribution graphs may falsely indicate that word frequency is a reliable indication of theme when in reality, frequency can change for many reasons. One example of this in the reading was if a word has multiple meanings, its frequency might increases because another meaning of the word is being used that is completely unrelated to the theme under consideration. Rockwell and Sinclair also discuss the difference between quantification and formalization, explaining that computing forces us to formalize forms of analysis and methods of inquiry in reading texts, as well as formalize how the answers are displayed. “Formalization is the foundation of computer-assisted interpretation,” they write, which is a central theme in the reading. They claim that formalizing these processes can produce new insights and interpretations that don’t need to be formalized, so there’s the idea that computing can help humans understand texts to an extent but does not necessarily need to produce all or even any of the interpretation.
+
+Rockwell and Sinclair also describe the Chinese Room experiment, which helps people imagine how computers do things without really understanding it like we do. This gives them the strength of objectivity because they cannot be influenced by what they analyze as they are analyzing like humans can. This reading pushes for the inclusion of computers in analyzing text without replacing the humans who provide the nuanced interpretations of the data. A few questions that this reading brings up are: What other complications and misunderstandings can use computer analysis tools lead to? And do the writers think that it is possible for computers to one day replace us, with a complex enough algorithm? I’d be curious about their takes on the future of digital humanities and the risks of using computers to help analyze texts.
+
+
