@@ -12,6 +12,9 @@ Through this tutorial, I learned the fundamentals of using the Extracted Feature
 
 I was able to follow along with the code, but it was a little difficult not to get lost in all of the syntax in the library and keeping track of what each one was for, and what the parameters were for functions like sort(). But I learned how you can extract specific data from text, including specific words, parts of speech, and filter out by pages and other criteria. I also learned how you can find frequencies of words/forms of words and how to see these patterns visually using plt.plot().
 
+This lesson could be applied to projects that involve analyzing and visualizing data based off a text. For example, if you 
+wanted to group all of the nouns mentioned in a text together to find common trends or themes, since these tools allow you to filter text by characteristics like parts of speech. You could similarly mine all the verbs from the text to find any common actions that the author uses. 
+
 ```python
 from htrc_features import FeatureReader
 import os
@@ -2088,8 +2091,7 @@ plt.plot(line_counts)
 
 
     
-![png](output_26_1.png)
-    
+![png](../assets/output26.png)    
 
 
 
