@@ -1,3 +1,9 @@
+---
+layout: page
+title: Week 7, Exercises Ch. 8
+description: Select exercises from Python Crash Course
+---
+
 ## Ch-8 Exercises: 8-1, 8-2, 8-3, 8-5, 8-6, 8-7
 
 ### 8-1. Message: Write a function called display_message() that prints one sentence telling everyone what you are learning about in this chapter. Call the function, and make sure the message displays correctly.
