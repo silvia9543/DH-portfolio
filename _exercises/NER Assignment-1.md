@@ -1,3 +1,9 @@
+---
+layout: page
+title: Week 9, NER Assignment
+description: Named Entity Recognition
+---
+
 # NER Assignment
 Georeferencing automatically detected place names in Edward Gibbon's *Decline and Fall of the Roman Empire* using the Pleiades gazatteer and `spaCy`.
 
