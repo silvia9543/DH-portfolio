@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week 11, ArcGIS Web Map App
+title: Week 10, ArcGIS Web Map App
 description: Web Map App of Gibbons Ch3 Places
 ---
 
