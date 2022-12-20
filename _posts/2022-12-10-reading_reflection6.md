@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Reading Reflection 6"
